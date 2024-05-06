@@ -6,3 +6,5 @@ This repository is my main repository from which I will  be learning
 
 > 1. [Learn HTML CSS JavaScript](https://github.com/CodeWith-Arsh/learn-html-css-javascript)
 > 2. [Learn How to Hide Elements in Javascript](https://codewith-arsh.github.io/Fs-hide-elements/)
+> 3. [Counter APP in Javascript](https://github.com/CodeWith-Arsh/counter-app/tree/main/src)
+> 4. [Turn the Bulb On and Off](https://codewith-arsh.github.io/bulb-on-off/src/)
